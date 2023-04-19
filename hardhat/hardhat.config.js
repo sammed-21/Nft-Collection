@@ -14,6 +14,7 @@ module.exports = {
     sepolia: {
       url: INFURA_HTTP_SEPOLIA,
       accounts: [PRIVATE_KEY],
+      // 0x1Ec74AB3b86EcAb510095EA1376769aD38760E7b
     },
   },
 };
